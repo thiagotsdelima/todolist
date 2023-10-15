@@ -1,0 +1,10 @@
+br\com\thiagoticiano\todalist\user\UserController.class
+br\com\thiagoticiano\todalist\TodalistApplication.class
+br\com\thiagoticiano\todalist\filter\FiltertaskAuth.class
+br\com\thiagoticiano\todalist\task\TaskModel.class
+br\com\thiagoticiano\todalist\utils\Utils.class
+br\com\thiagoticiano\todalist\user\UserModel.class
+br\com\thiagoticiano\todalist\errors\ExceptionHandlerController.class
+br\com\thiagoticiano\todalist\task\ITaskRepository.class
+br\com\thiagoticiano\todalist\task\TaskController.class
+br\com\thiagoticiano\todalist\user\IUserRepository.class
